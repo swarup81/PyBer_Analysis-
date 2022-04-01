@@ -27,6 +27,7 @@ The rural city takes the lead in the first week of April while the suburban fail
 # summary:
 
 Business recommendations to the CEO as follows:
+
 The company can hire more drivers for the rural and suburban cities who are comfortable driving long distances and more comfortable driving in those areas.
 
 The company can invest in advertising campaigns for all city types, especially in urban cities, to increase the total rides or cut down the drivers' size.
