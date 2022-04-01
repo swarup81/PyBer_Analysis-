@@ -25,6 +25,8 @@ looking at the chart, we can see all the three cities are at their peak till the
 The rural city takes the lead in the first week of April while the suburban fails to rise, but at the end of April, we can see the subtlety in the curve while the rural city drops off at the end of April.
 
 # summary:
+
+Business recommendations to the CEO as follows:
 The company can hire more drivers for the rural and suburban cities who are comfortable driving long distances and more comfortable driving in those areas.
 
 The company can invest in advertising campaigns for all city types, especially in urban cities, to increase the total rides or cut down the drivers' size.
